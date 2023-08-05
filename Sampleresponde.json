@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy",
+            "title": "Spain’s far-right Vox party is targeting women’s rights. It may end up kingmaker in Sunday’s election - CNN",
+            "description": "Spain’s far-right Vox party looks set to continue its meteoric rise in Sunday’s general election, and it aims to use its growing influence to roll back decades of progress in women’s rights by blocking abortion access, repealing legislation on gender-based vi…",
+            "url": "https://www.cnn.com/2023/07/21/europe/spain-vox-womens-rights-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230720102842-05-spain-election-vox-far-right.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-21T11:35:00Z",
+            "content": "Spains far-right Vox party looks set to continue its meteoric rise in Sundays general election, and it aims to use its growing influence to roll back decades of progress in womens rights by blocking … [+7840 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sara Smart",
+            "title": "Suspect identified in 1981 killing of a New Hampshire woman with help of genetic genealogy, attorney general says - CNN",
+            "description": "A homicide case that went cold for more than 40 years has been solved with the help of forensic genetic genealogy technology, New Hampshire Attorney General John M. Formella said Thursday.",
+            "url": "https://www.cnn.com/2023/07/21/us/new-hampshire-laura-kempton-cold-case-solved/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721001835-01-new-hampshire-laura-kempton-cold-case-solved.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-21T07:42:00Z",
+            "content": "A homicide case that went cold for more than 40 years has been solved with the help of forensic genetic genealogy technology, New Hampshire Attorney General John M. Formella said Thursday.\r\nInvestiga… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta",
+            "title": "Rishi Sunak suffers two election losses as British voters reject ailing Conservative government - CNN",
+            "description": "Britain’s beleaguered Prime Minister Rishi Sunak suffered a damaging political blow on Friday as voters rejected his party in two parliamentary elections it could ordinarily have expected to win.",
+            "url": "https://www.cnn.com/2023/07/20/uk/uk-byelections-rishi-sunak-boris-johnson-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230328073155-rishi-sunak-030823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-21T07:30:00Z",
+            "content": "Britains beleaguered Prime Minister Rishi Sunak suffered a damaging political blow on Friday as voters rejected his party in two parliamentary elections it could ordinarily have expected to win.\r\nThe… [+3745 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse",
+            "title": "Canada headlines second day of Women’s World Cup action as Olympic champion faces Nigeria - CNN",
+            "description": "The Women’s World Cup is finally here and the tournament’s second day of action holds plenty of intriguing storylines.",
+            "url": "https://www.cnn.com/2023/07/20/football/womens-world-cup-canada-nigeria-switzerland-philippines-spain-costa-rica-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230719122720-04-wwc-2023-lookahead.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-21T01:26:00Z",
+            "content": "The Womens World Cup is finally here and the tournaments second day of action holds plenty of intriguing storylines.\r\nOlympic champion Canada kicks off its campaign in the opening game of Fridays act… [+6989 chars]"
+        }
+    ]
+}
