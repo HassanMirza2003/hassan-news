@@ -9,7 +9,7 @@ Features
 
 Installation
 Clone the repository:
-git clone https://github.com/HassanMirza2003/Hassan-news-app.git
+git clone https://github.com/HassanMirza2003/hassan-news-app.git
 
 Navigate to the project directory:
 cd Hassan-news-app.
