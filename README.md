@@ -20,6 +20,19 @@ npm install.
 Start the development server:
 npm start.
 
+Open your web browser and go to http://localhost:3000 to view the application.
+
+Usage
+#Click on the navigation links in the header to explore different news categories.
+#The articles in each category are dynamically fetched and displayed.
+
+Customization
+#Adjust the pageSize, country, and category props in the Route components within src/App.js to customize #the number of articles, country, and category for each route.
+
+Dependencies
+#React
+#React Router
+
 
 
 
